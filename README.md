@@ -26,7 +26,6 @@ The repository includes graphical applications, automation scripts, computer-vis
 - **Borderlands Gun Generator** — Generates randomized weapon names using predefined factions, descriptors, and weapon-name components.
 - **ASCII Decoder** — A terminal animation that randomly generates characters until it matches a target string.
 - **Tkinter Login Interface** — A basic GUI experiment with username/password input and account creation.
-- **Database Text Renamer** — A file-processing utility that removes specified SQL text fragments and standalone occurrences of a character using regular expressions.
 - **Notepad Typing Automation** — Uses PyAutoGUI to open Notepad and type a predefined string.
 
 ## Technologies and libraries
